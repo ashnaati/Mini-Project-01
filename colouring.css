@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    color: whitesmoke;
+    border: 2px solid;
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 3px solid black;
+}
+caption{ border: 3px solid black;
+
+}
